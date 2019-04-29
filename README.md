@@ -1,8 +1,9 @@
 React Native POC
 
 Dependencies- 
-	https://developer.android.com/studio
-	or Xcode for iOS
+	
+	Android:https://developer.android.com/studio
+	iOS:Xcode
 
 	Node:https://github.com/coreybutler/nvm-windows
 
@@ -15,6 +16,7 @@ Dependencies-
 	https://facebook.github.io/react-native/docs/getting-started
 
 Setup-
+
 	In terminal/cmd/git bash
 	nvm install 8.11.3
 	nvm use 8.11.3
@@ -23,6 +25,7 @@ Setup-
 	cd <project name>
 
 Deploy-
+
 	Android-
 		Start Android emulator
 		then run: react-native run-android
