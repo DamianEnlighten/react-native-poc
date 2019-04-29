@@ -9,7 +9,7 @@ Dependencies-
 
 	Python2: https://www.python.org/downloads/release/python-2715/
 
-	JDK: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+	JDK: https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html
 	Using JDK 12.0.1
 
 	Configure Android studio/xcode:
