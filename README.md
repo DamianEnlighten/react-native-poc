@@ -1,37 +1,33 @@
-React Native:
+React Native POC
 
 Dependencies- 
-https://developer.android.com/studio
-or Xcode for iOS
-Node:https://github.com/coreybutler/nvm-windows
-Python2: https://www.python.org/downloads/release/python-2715/
-JDK: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-Using JDK 12.0.1
+	https://developer.android.com/studio
+	or Xcode for iOS
 
-Configure Android studio/xcode:
-https://facebook.github.io/react-native/docs/getting-started
+	Node:https://github.com/coreybutler/nvm-windows
 
-Setup:
-In terminal/cmd/git bash
+	Python2: https://www.python.org/downloads/release/python-2715/
 
-nvm install 8.11.3
-nvm use 8.11.3
+	JDK: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+	Using JDK 12.0.1
 
-npm install -g react-native-cli
+	Configure Android studio/xcode:
+	https://facebook.github.io/react-native/docs/getting-started
 
-react-native init <project name>
+Setup-
+	In terminal/cmd/git bash
+	nvm install 8.11.3
+	nvm use 8.11.3
+	npm install -g react-native-cli
+	react-native init <project name>
+	cd <project name>
 
-cd <project name>
-
-Deploy:
+Deploy-
 	Android-
 		Start Android emulator
 		then run: react-native run-android
 	iOS-
 		requires a mac
 		react-native run-ios
-		
-		
+				
 Basic tutorials: https://facebook.github.io/react-native/docs/tutorial
-		
-	
